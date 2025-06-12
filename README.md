@@ -18,28 +18,28 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="Javascript" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
+     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
       <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+      <br>C++
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
       <br>PHP
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
+        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="Javascript" />
+      <br>Javascript
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
     <!-- <td align="center" width="96">
@@ -69,8 +69,8 @@
       <br>Laravel
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      <br>Express
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
     </td>
  </tr>
  <tr>
@@ -83,16 +83,16 @@
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
+      <br>Nodejs
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="Sentry" />
       <br>Sentry
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
-      <br>Prisma
+        <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" />
+      <br>R
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sequelize" width="48" height="48" alt="Sequelize" />
