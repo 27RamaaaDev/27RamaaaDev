@@ -1,6 +1,7 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0000ff&background=FFFFFF00&center=true&vCenter=true&width=460&lines=Hi!+I'am+a+Backend+Engineer;@ADS+Digital+Partner"></h1>
-
 <h1 align="center">Thanks for Visiting my GitHub Profile!</h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0000ff&background=FFFFFF00&center=true&vCenter=true&width=460&lines=Hi+!+I'm+a+Backend+Engineer;Programming+Coordinator"></h1>
+
+<h2 align="center">Koordinator Divisi Programming & Jaringan Periode 2024/2025</h2>
 <p align="center">
   <img src="https://github.com/nameisjar/nameisjar/blob/output/github-contribution-grid-snake.svg">
 </p>
@@ -14,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=nameisjar&label=Profile%20views&color=0e75b6&style=plastic" alt="27RamaaaDev" />
 </p>
 
-## Teknology Stack :
+## Expert Technology Stacks :
 
 <table align="center">
   <tr>
@@ -79,24 +80,24 @@
       <br>Github
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
+        <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+      <br>Kotlin
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
       <br>Nodejs
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="Sentry" />
-      <br>Sentry
+        <img src="https://skillicons.dev/icons?i=robloxstudio" width="48" height="48" alt="Roblox" />
+      <br>Roblox Studio
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" />
       <br>R
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sequelize" width="48" height="48" alt="Sequelize" />
-      <br>Sequelize
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
     </td>
  </tr>
 </table>
