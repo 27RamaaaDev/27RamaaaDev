@@ -6,12 +6,12 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nameisjar&theme=tokyonight" alt="nameisjar"  /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=27RamaaaDev&theme=tokyonight" alt="27RamaaaDev"  /></a>
 </p>
 
 <p align="center">
-  <!-- - <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=nameisjar&label=Profile%20Views&color=6&icon=0&pretty=true" /></a>  -->
-  <img src="https://komarev.com/ghpvc/?username=nameisjar&label=Profile%20views&color=0e75b6&style=plastic" alt="nameisjar" />
+  <!-- - <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id27RamaaaDevlabel=Profile%20Views&color=6&icon=0&pretty=true" /></a>  -->
+  <img src="https://komarev.com/ghpvc/?username=nameisjar&label=Profile%20views&color=0e75b6&style=plastic" alt="27RamaaaDev" />
 </p>
 
 ## Teknology Stack :
@@ -103,7 +103,7 @@
 
 <!-- ## Connect With Me : -->
 <!-- 
-<a href="https://www.linkedin.com/in/nikomuhamadfajar" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="Linkedin"/></a> -->
+<a href="https://www.linkedin.com/in/restu-putra-ramadhannn" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="Linkedin"/></a> -->
 
 <h1 align="center">Github Stats</h1>
 <p align="center">
@@ -118,8 +118,8 @@
 </p>
 
 <!--
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nameisjar&theme=tokyonight)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=nameisjar&theme=tokyonight" alt="GitHub Streak" /></a> 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=27RamaaaDev&theme=tokyonight)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=27RamaaaDev&theme=tokyonight" alt="GitHub Streak" /></a> 
 -->
 
 ---
