@@ -68,7 +68,9 @@
 
 ---
 
-## 📫 Connect with Me
+<h1 align="center">
+📫 Connect with Me
+</h1>
 
 <p align="center">
   <!-- Tambahkan kalau LinkedIn kamu sudah aktif -->
