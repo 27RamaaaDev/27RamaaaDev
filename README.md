@@ -68,25 +68,22 @@
 
 ---
 
-<h1 align="center">
-📫 Connect with Me
-</h1>
+<h1 align="center">🌐 Let's Connect!</h1>
 
 <p align="center">
-  <!-- Tambahkan kalau LinkedIn kamu sudah aktif -->
   <a href="https://github.com/27RamaaaDev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/restu-putra-ramadhannn-6446b9358" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/backend.ramaa?igsh=MTM3MnFiMzFtdzA2bQ==" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=27RamaaaDev&label=Profile%20views&color=0e75b6&style=plastic" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=27RamaaaDev&label=👁‍🗨%20Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
