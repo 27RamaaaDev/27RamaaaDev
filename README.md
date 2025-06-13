@@ -12,13 +12,17 @@
 
 ---
 
-## 🏆 GitHub Trophies
+<h1 align="center">
+🏆 GitHub Trophies
+</h1>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=27RamaaaDev&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
-## 📊 GitHub Stats
+<h1 align="center">
+📊 GitHub Stats
+</h1>
 
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=27RamaaaDev&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" />
@@ -31,7 +35,9 @@
 
 ---
 
-## 💼 Tech Stack
+<h1 align="center">
+💼 Tech Stack
+</h1>
 
 <table align="center">
   <tr>
