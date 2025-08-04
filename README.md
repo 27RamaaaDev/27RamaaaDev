@@ -71,8 +71,8 @@
 <h1 align="center">🌐 Let's Connect!</h1>
 
 <p align="center">
-  <a href="https://github.com/27RamaaaDev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  <a href="https://youtube.com/@restuputraramadhan?si=_F8HRZm3ce3QIqtm" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-E4405F?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/restu-putra-ramadhannn-6446b9358" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
