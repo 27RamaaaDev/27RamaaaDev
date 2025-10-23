@@ -5,7 +5,7 @@
 </h3>
 
 <h3 align="center">Koordinator Divisi Programming & Jaringan SCI-TOS Periode 2024/2025</h3>
-<p>Programmer pemulaaaaa</p>
+<p align="center">Programmer pemulaaaaa</p>
 
 <p align="center">
   <img src="https://github.com/nameisjar/nameisjar/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
