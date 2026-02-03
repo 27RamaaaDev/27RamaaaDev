@@ -23,17 +23,24 @@
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
-  <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=27RamaaaDev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)" />
+  <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=27RamaaaDev&theme=onedark)](https://github.com/27RamaaaDev/github-profile-trophy)" />
 </p>
 
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=27RamaaaDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=27RamaaaDev&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=27RamaaaDev&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=27RamaaaDev&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=27RamaaaDev&show_icons=true" />
+</picture>
 <br>
 <p align="center">
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=27RamaaaDev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
