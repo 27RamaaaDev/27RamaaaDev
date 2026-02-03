@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🌱 I am currently focused on <b>Backend Development</b> and Software Engineering.<br>
+  🌱 I am currently focused on <b>Backend Development</b> and <b>Software Engineering</b>.<br>
   🚀 Passionate about learning new technologies and building scalable applications.
 </p>
 
@@ -22,11 +22,6 @@
 ---
 
 <br>
-<p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=27RamaaaDev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
