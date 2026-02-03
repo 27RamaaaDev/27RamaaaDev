@@ -23,7 +23,7 @@
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=27RamaaaDev&theme=tokyonight&row=1&column=6&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)" />
 </p>
 
 ---
