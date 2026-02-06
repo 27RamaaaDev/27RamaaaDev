@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🌱 I am currently focused on <b>Backend Development</b> and <b>Software Engineering</b>.<br>
+  🌱 I am currently focused on <b>Web Development</b> and <b>Software Engineering</b>.<br>
   🚀 Passionate about learning new technologies and building scalable applications.
 </p>
 
