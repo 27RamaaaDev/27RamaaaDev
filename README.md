@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Restu Putra Ramadhan ! 👋</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=I'm+a+Backend+Engineer;Programming+Division+Coordinator;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=I'm+a+Software+Engineer;Programming+Division+Coordinator;Tech+Enthusiast" alt="Typing SVG" />
 </h3>
 
 <p align="center">
