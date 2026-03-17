@@ -1,66 +1,50 @@
 <h1 align="center">Hi, I'm Restu Putra Ramadhan 👋</h1>
 
 <p align="center">
-  <b>Software Engineer | Web Developer | Tech Enthusiast</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Backend+Focused;Tech+Enthusiast;Always+Learning" />
 </p>
 
 <p align="center">
-  Koordinator Divisi Programming & Jaringan<br>
-  SCI-TOS SMAN 4 Bekasi (2024/2025)
+  <b>Software Engineer</b> • Web Developer • Problem Solver
 </p>
 
 <p align="center">
-  Fokus pada Fullstack Web Development.<br>
-  Aktif membangun website dan belajar teknologi baru.
+  Koordinator Programming & Jaringan SCI-TOS<br>
+  SMAN 4 Bekasi (2024/2025)
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=Fullstack+Web+Developer;Backend+Enthusiast;Always+Learning" />
+  Fokus membangun website yang scalable dan efisien.<br>
+  Aktif belajar teknologi baru dan mengembangkan skill backend.
 </p>
 
 ---
 
-## 🚀 Tentang Saya
+<h2 align="center">🚀 Tech Stack</h2>
 
-• Pelajar kelas 12 dengan fokus karir di Web Development  
-• Berpengalaman memimpin divisi programming di organisasi sekolah  
-• Terbiasa mengajar basic programming ke anggota baru  
-• Fokus membangun project real dan scalable  
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,php,js" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,js,java,cpp,kotlin" />
 </p>
 
-### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,nodejs,laravel" />
 </p>
 
-### 🗄️ Database & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git" />
-</p>
-
-### 📊 Others
-<p>
-  <img src="https://skillicons.dev/icons?i=robloxstudio" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,linux,r" />
 </p>
 
 ---
 
-## 📈 GitHub Activity
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=27RamaaaDev&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=27RamaaaDev&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=27RamaaaDev&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=27RamaaaDev&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=27RamaaaDev&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -69,7 +53,18 @@
 
 ---
 
-## 🌐 Connect with Me
+<h2 align="center">🔥 Current Focus</h2>
+
+<p align="center">
+  • Fullstack Web Development<br>
+  • Backend Architecture<br>
+  • Build Real Projects<br>
+  • Improve Problem Solving
+</p>
+
+---
+
+<h2 align="center">🌐 Connect</h2>
 
 <p align="center">
   <a href="https://youtube.com/@restuputraramadhan">
