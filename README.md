@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-  Fokus membangun website yang scalable dan efisien.<br>
-  Aktif belajar teknologi baru dan mengembangkan skill backend.
+  cuma programmer pemulaaa wkwkwkw<br>
+  dan gw sedang mencoba belajar beberapa teknologi untuk upgrade skill.
 </p>
 
 ---
