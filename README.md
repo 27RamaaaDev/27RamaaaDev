@@ -33,22 +33,22 @@
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,js,java,cpp,kotlin" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,php,js" />
 </p>
 
 ### 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,nodejs,laravel" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
 </p>
 
 ### 🗄️ Database & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,linux" />
+  <img src="https://skillicons.dev/icons?i=mysql,git" />
 </p>
 
 ### 📊 Others
 <p>
-  <img src="https://skillicons.dev/icons?i=r,robloxstudio" />
+  <img src="https://skillicons.dev/icons?i=robloxstudio" />
 </p>
 
 ---
