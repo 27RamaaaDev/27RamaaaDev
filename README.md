@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Software Engineer</b> • Web Developer • Problem Solver
+  <b>Software Engineer</b> • <b>Fullstack Web Developer</b> • <b>Game Developer</b>
 </p>
 
 <p align="center">
