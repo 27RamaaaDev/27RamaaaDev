@@ -23,22 +23,22 @@
 
 <p align="center">
   <b>Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=python,php,js,ts,java,cpp,cs,kotlin,r" />
+  <img src="https://skillicons.dev/icons?i=python,php,js,java,cpp,cs,r" />
 </p>
 
 <p align="center">
   <b>Frontend Development</b><br>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vue,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,nextjs" />
 </p>
 
 <p align="center">
   <b>Backend & Frameworks</b><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django,spring" />
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,flask" />
 </p>
 
 <p align="center">
   <b>Databases, DevOps & Tools</b><br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,linux,git,postman,unity" />
+  <img src="https://skillicons.dev/icons?i=mysql,git" />
 </p>
 
 ---
