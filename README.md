@@ -23,22 +23,22 @@
 
 <p align="center">
   <b>Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=python,php,js,java,cpp,cs,r" />
+  <img src="https://skillicons.dev/icons?i=python,php,js,ts,java,cpp,cs,kotlin,r" />
 </p>
 
 <p align="center">
   <b>Frontend Development</b><br>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vue,nextjs" />
 </p>
 
 <p align="center">
   <b>Backend & Frameworks</b><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django,spring" />
 </p>
 
 <p align="center">
   <b>Databases, DevOps & Tools</b><br>
-  <img src="https://skillicons.dev/icons?i=mysql,git" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,linux,git,postman,unity" />
 </p>
 
 ---
@@ -71,6 +71,9 @@
   </a>
   <a href="https://www.instagram.com/backend.ramaa">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@27.1nonlyramaaaaa">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
 
