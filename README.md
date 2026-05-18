@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <b>Software Engineer</b> • <b>Fullstack Web Developer</b> • <b>Game Developer</b>
+  <b>Software Engineer</b> • <b>Fullstack Web Developer</b> • <b>Cybersecurity Analyst</b>
 </p>
 
 <br>
