@@ -69,7 +69,7 @@
   <a href="https://youtube.com/@restuputraramadhan">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/backend.ramaa">
+  <a href="https://www.instagram.com/cactusjack.ramaa">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.tiktok.com/@27.1nonlyramaaaaa">
