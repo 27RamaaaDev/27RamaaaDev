@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/27RamaaaDev/27RamaaaDev/blob/output/github-contribution-grid-snake.svg" width="80%" />
+  <img src="https://raw.githubusercontent.com/27RamaaaDev/27RamaaaDev/output/github-contribution-grid-snake.svg" width="80%" />
 </p>
 
 ---
