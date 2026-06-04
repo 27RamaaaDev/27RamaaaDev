@@ -46,16 +46,16 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=27RamaaaDev&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=27RamaaaDev&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=27RamaaaDev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=27RamaaaDev&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=27RamaaaDev&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=27RamaaaDev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/nameisjar/nameisjar/blob/output/github-contribution-grid-snake.svg" width="80%" />
+  <img src="https://github.com/27RamaaaDev/27RamaaaDev/blob/output/github-contribution-grid-snake.svg" width="80%" />
 </p>
 
 ---
