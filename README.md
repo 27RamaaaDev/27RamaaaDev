@@ -1,52 +1,43 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:007ACC&height=190&section=header&text=Restu%20Putra%20Ramadhan&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20Lifelong%20Learner&descSize=15&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:0A66C2,100:00F5FF&height=210&section=header&text=Restu%20Putra%20Ramadhan&fontSize=42&fontColor=FFFFFF&fontAlignY=34&desc=Cyber%20Professional%20%7C%20Fullstack%20Developer%20%7C%20Digital%20Marketing%20Web%20Developer&descSize=15&descAlignY=55" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Restu+Putra+Ramadhan+%F0%9F%91%8B;Fullstack+Web+Developer;Web+Developer+at+PT+Nirwana+Sukses+Sejahtera+Internasional;Backend+Architecture+Learner;Cybersecurity+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=%3E+Initializing+developer+profile...;%3E+Fullstack+Web+Developer;%3E+Web+Developer+%40+PT.+Nirwana+Sukses+Sejahtera+Internasional;%3E+Cybersecurity+Enthusiast+%7C+Backend+Architecture+Learner;%3E+Building+secure%2C+clean%2C+and+real-world+web+solutions" alt="Typing SVG" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Identity-Cyber%20Professional-050505?style=for-the-badge&logo=hackthebox&logoColor=00F5FF" />
+<img src="https://img.shields.io/badge/Role-Fullstack%20Developer-0A66C2?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Division-Digital%20Marketing-00BFFF?style=for-the-badge&logo=googlemarketingplatform&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Secure%20Web%20Development-111827?style=for-the-badge&logo=kalilinux&logoColor=00F5FF" />
+<img src="https://komarev.com/ghpvc/?username=27RamaaaDev&label=Profile%20Views&color=00F5FF&style=for-the-badge" />
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineer-0A66C2?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fullstack%20Developer-00BFFF?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Developer-Digital%20Marketing-007ACC?style=for-the-badge&logo=googlemarketingplatform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity%20Enthusiast-111827?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=27RamaaaDev&label=Profile%20Views&color=00BFFF&style=for-the-badge" />
-</p>
-
 ---
 
-## 👨‍💻 About Me
+## 🧬 Digital Identity
 
-```ts
-const restu = {
-  name: "Restu Putra Ramadhan",
-  username: "27RamaaaDev",
-  role: "Software Engineer & Fullstack Web Developer",
-  school: "SMAN 4 Bekasi",
-  organization: "Koordinator Programming & Jaringan SCI-TOS 2024/2025",
-  currentPosition: {
-    title: "Web Developer",
-    division: "Digital Marketing",
-    company: "PT. Nirwana Sukses Sejahtera Internasional",
-    relatedRepository: "public_html"
-  },
-  focus: [
-    "Fullstack Web Development",
-    "Backend Architecture",
-    "Cybersecurity Fundamentals",
-    "Real-world Project Development"
-  ],
-  mindset: "Keep learning, keep building, keep improving."
-};
+```bash
+┌──(restu@github)-[~/developer-profile]
+└─$ whoami
+
+Name        : Restu Putra Ramadhan
+Username    : 27RamaaaDev
+Role        : Fullstack Web Developer
+Position    : Web Developer — Digital Marketing Division
+Company     : PT. Nirwana Sukses Sejahtera Internasional
+Repository  : public_html
+Focus       : Fullstack Development | Backend Architecture | Cybersecurity
+Mindset     : Learn. Build. Secure. Improve.
 ```
 
 <p align="center">
-  Saya adalah developer yang sedang fokus membangun kemampuan di bidang <b>Fullstack Web Development</b>,
+  Saya adalah developer yang membangun kemampuan di bidang <b>Fullstack Web Development</b>,
   <b>Backend Architecture</b>, dan <b>Cybersecurity</b>. Saat ini saya juga berperan sebagai
   <b>Web Developer</b> di divisi <b>Digital Marketing</b> pada <b>PT. Nirwana Sukses Sejahtera Internasional</b>,
-  dengan pekerjaan yang berhubungan langsung dengan pengembangan dan pengelolaan website melalui repository
-  <b>public_html</b>.
+  dengan fokus pada pengembangan dan pengelolaan website perusahaan melalui repository
+  <a href="https://github.com/27RamaaaDev/public_html"><b>public_html</b></a>.
 </p>
 
 ---
@@ -57,16 +48,24 @@ const restu = {
 
 <table>
   <tr>
-    <td align="center" width="100%">
-      <h3>🌐 Web Developer — Digital Marketing Division</h3>
+    <td align="center" width="50%">
+      <h3>🏢 Corporate Role</h3>
       <p>
-        <b>PT. Nirwana Sukses Sejahtera Internasional</b><br>
-        Berkontribusi dalam pengembangan, pengelolaan, dan peningkatan website perusahaan untuk mendukung kebutuhan digital marketing, branding, dan operasional bisnis.
+        <b>Web Developer</b><br>
+        Digital Marketing Division<br>
+        PT. Nirwana Sukses Sejahtera Internasional
       </p>
+      <a href="https://github.com/27RamaaaDev/public_html">
+        <img src="https://img.shields.io/badge/Project%20Repository-public__html-00F5FF?style=for-the-badge&logo=github&logoColor=050505" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🎯 Work Focus</h3>
       <p>
-        <a href="https://github.com/27RamaaaDev/public_html">
-          <img src="https://img.shields.io/badge/Related%20Repository-public__html-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
+        Company website development<br>
+        Digital branding support<br>
+        Web structure improvement<br>
+        Clean and maintainable code
       </p>
     </td>
   </tr>
@@ -76,23 +75,23 @@ const restu = {
 
 ---
 
-## 🚀 What I'm Focusing On
+## 🕶️ Hacker Mindset + Professional Execution
 
 <div align="center">
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <h3>🌐 Frontend</h3>
-      <p>Building clean, responsive, and user-friendly interfaces using modern frontend tools.</p>
+      <h3>🛡️ Security Aware</h3>
+      <p>Think like a hacker to understand risks, but build like a professional to create secure systems.</p>
     </td>
     <td align="center" width="33%">
-      <h3>⚙️ Backend</h3>
-      <p>Learning API design, database structure, authentication, and scalable backend architecture.</p>
+      <h3>⚙️ System Builder</h3>
+      <p>Designing websites, APIs, backend logic, and digital systems with structure and purpose.</p>
     </td>
     <td align="center" width="33%">
-      <h3>🛡️ Security</h3>
-      <p>Exploring web security, network fundamentals, secure coding, and vulnerability analysis.</p>
+      <h3>💼 Business Ready</h3>
+      <p>Developing web solutions that support branding, marketing, company profile, and business operations.</p>
     </td>
   </tr>
 </table>
@@ -101,56 +100,68 @@ const restu = {
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### Languages
+### Programming Languages
 <img src="https://skillicons.dev/icons?i=python,php,js,ts,java,cpp,cs,kotlin,r" />
 
-### Frontend Development
+### Frontend Engineering
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vue,nextjs" />
 
 ### Backend & Frameworks
 <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django,spring" />
 
-### Databases, DevOps & Tools
+### Database, DevOps & Tools
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,linux,git,github,postman,unity" />
 
 </div>
 
 ---
 
-## 📌 Developer Dashboard
+## 🧠 Cyber Professional Dashboard
 
 <div align="center">
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>🎯 Current Goal</h3>
+      <h3>🔐 Security Layer</h3>
       <p>
-        Mastering fullstack development by building real-world projects and improving backend logic.
+        Web security fundamentals<br>
+        Network basics<br>
+        Secure coding practice<br>
+        Vulnerability awareness
       </p>
     </td>
     <td align="center" width="50%">
-      <h3>🔥 Main Interest</h3>
+      <h3>🌐 Development Layer</h3>
       <p>
-        Web development, backend systems, cybersecurity, APIs, and clean software architecture.
+        Responsive website development<br>
+        Backend structure<br>
+        Database integration<br>
+        API development
       </p>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>🧠 Learning Style</h3>
+      <h3>📈 Business Layer</h3>
       <p>
-        Learn by building, testing, breaking, fixing, and improving code step by step.
+        Digital marketing support<br>
+        Company profile website<br>
+        Brand visibility<br>
+        User-focused web experience
       </p>
     </td>
     <td align="center" width="50%">
-      <h3>💡 Mindset</h3>
+      <h3>🚀 Growth Layer</h3>
       <p>
-        Beginner spirit, builder mentality, and continuous improvement every day.
+        Real-world projects<br>
+        Problem solving<br>
+        Continuous learning<br>
+        Clean code discipline
       </p>
     </td>
   </tr>
@@ -159,41 +170,41 @@ const restu = {
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Clean%20%26%20Readable-00BFFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Build-Real%20World%20Projects-007ACC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learn-Never%20Stop-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mode-Terminal%20Driven-050505?style=for-the-badge&logo=gnubash&logoColor=00F5FF" />
+  <img src="https://img.shields.io/badge/Style-Clean%20Code-0A66C2?style=for-the-badge&logo=codecrafters&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mission-Secure%20%26%20Professional%20Web-111827?style=for-the-badge&logo=shield&logoColor=00F5FF" />
 </p>
 
 ---
 
-## 🧭 Learning Roadmap
+## 🧭 Current Learning Roadmap
 
 ```txt
-Frontend Development
-├── HTML, CSS, JavaScript
-├── Tailwind CSS & Bootstrap
-├── React.js & Vue.js
-└── Next.js
+[01] Frontend Development
+     ├─ HTML, CSS, JavaScript
+     ├─ Tailwind CSS & Bootstrap
+     ├─ React.js & Vue.js
+     └─ Next.js
 
-Backend Development
-├── PHP & Laravel
-├── Node.js & Express.js
-├── Python & Django
-├── Java & Spring
-└── REST API Architecture
+[02] Backend Development
+     ├─ PHP & Laravel
+     ├─ Node.js & Express.js
+     ├─ Python & Django
+     ├─ Java & Spring
+     └─ REST API Architecture
 
-Database & DevOps
-├── MySQL, PostgreSQL, MongoDB
-├── Firebase
-├── Docker
-├── Linux
-└── Git & GitHub Workflow
+[03] Database & DevOps
+     ├─ MySQL, PostgreSQL, MongoDB
+     ├─ Firebase
+     ├─ Docker
+     ├─ Linux
+     └─ Git & GitHub Workflow
 
-Cybersecurity
-├── Web Security Fundamentals
-├── Network Basics
-├── Secure Coding Practice
-└── Vulnerability Analysis
+[04] Cybersecurity
+     ├─ Web Security Fundamentals
+     ├─ Network Basics
+     ├─ Secure Coding Practice
+     └─ Vulnerability Analysis
 ```
 
 ---
@@ -202,11 +213,10 @@ Cybersecurity
 
 - 🏫 Koordinator Programming & Jaringan SCI-TOS di SMAN 4 Bekasi 2024/2025  
 - 💼 Web Developer divisi Digital Marketing di PT. Nirwana Sukses Sejahtera Internasional  
-- 🌐 Berhubungan dengan pengembangan dan pengelolaan website melalui repository `public_html`  
-- 💻 Fokus membangun project web nyata untuk meningkatkan skill development  
-- ⚙️ Tertarik dengan backend system, clean architecture, dan API design  
-- 🛡️ Mempelajari cybersecurity untuk membuat aplikasi yang lebih aman  
-- 🚀 Selalu belajar, eksperimen, dan berkembang sebagai developer  
+- 🌐 Berhubungan dengan pengembangan dan pengelolaan website melalui repository [`public_html`](https://github.com/27RamaaaDev/public_html)  
+- 🛡️ Menggabungkan pola pikir cybersecurity dengan eksekusi web development profesional  
+- ⚙️ Tertarik dengan backend system, clean architecture, API design, dan secure coding  
+- 🚀 Selalu belajar, bereksperimen, membangun, dan meningkatkan kualitas kode  
 
 ---
 
@@ -222,11 +232,11 @@ Cybersecurity
 
 ---
 
-## 🌍 Let's Connect
+## 🌍 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/restu-putra-ramadhannn-6446b9358">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://youtube.com/@restuputraramadhan">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
@@ -235,7 +245,7 @@ Cybersecurity
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.tiktok.com/@27.1nonlyramaaaaa">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+    <img src="https://img.shields.io/badge/TikTok-050505?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 </p>
 
@@ -243,8 +253,13 @@ Cybersecurity
 
 <div align="center">
 
-### ⚡ "Small progress every day leads to big results."
+```bash
+┌──(restu@github)-[~/mission]
+└─$ echo "Build clean systems. Think securely. Grow professionally."
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:00BFFF&height=120&section=footer" />
+### ⚡ Code with logic. Secure with awareness. Deliver with professionalism.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,45:0A66C2,100:050505&height=120&section=footer" />
 
 </div>
