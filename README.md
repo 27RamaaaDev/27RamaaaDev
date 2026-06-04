@@ -2,13 +2,14 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:007ACC&height=190&section=header&text=Restu%20Putra%20Ramadhan&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20Lifelong%20Learner&descSize=15&descAlignY=55" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Restu+Putra+Ramadhan+%F0%9F%91%8B;Fullstack+Web+Developer;Backend+Architecture+Learner;Cybersecurity+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Restu+Putra+Ramadhan+%F0%9F%91%8B;Fullstack+Web+Developer;Web+Developer+at+PT+Nirwana+Sukses+Sejahtera+Internasional;Backend+Architecture+Learner;Cybersecurity+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
 
 </div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Software%20Engineer-0A66C2?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Fullstack%20Developer-00BFFF?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Developer-Digital%20Marketing-007ACC?style=for-the-badge&logo=googlemarketingplatform&logoColor=white" />
   <img src="https://img.shields.io/badge/Cybersecurity%20Enthusiast-111827?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=27RamaaaDev&label=Profile%20Views&color=00BFFF&style=for-the-badge" />
 </p>
@@ -24,6 +25,12 @@ const restu = {
   role: "Software Engineer & Fullstack Web Developer",
   school: "SMAN 4 Bekasi",
   organization: "Koordinator Programming & Jaringan SCI-TOS 2024/2025",
+  currentPosition: {
+    title: "Web Developer",
+    division: "Digital Marketing",
+    company: "PT. Nirwana Sukses Sejahtera Internasional",
+    relatedRepository: "public_html"
+  },
   focus: [
     "Fullstack Web Development",
     "Backend Architecture",
@@ -36,9 +43,36 @@ const restu = {
 
 <p align="center">
   Saya adalah developer yang sedang fokus membangun kemampuan di bidang <b>Fullstack Web Development</b>,
-  <b>Backend Architecture</b>, dan <b>Cybersecurity</b>. Saya suka belajar teknologi baru, membuat project nyata,
-  dan melatih problem-solving agar bisa terus berkembang sebagai engineer.
+  <b>Backend Architecture</b>, dan <b>Cybersecurity</b>. Saat ini saya juga berperan sebagai
+  <b>Web Developer</b> di divisi <b>Digital Marketing</b> pada <b>PT. Nirwana Sukses Sejahtera Internasional</b>,
+  dengan pekerjaan yang berhubungan langsung dengan pengembangan dan pengelolaan website melalui repository
+  <b>public_html</b>.
 </p>
+
+---
+
+## 💼 Professional Experience
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="100%">
+      <h3>🌐 Web Developer — Digital Marketing Division</h3>
+      <p>
+        <b>PT. Nirwana Sukses Sejahtera Internasional</b><br>
+        Berkontribusi dalam pengembangan, pengelolaan, dan peningkatan website perusahaan untuk mendukung kebutuhan digital marketing, branding, dan operasional bisnis.
+      </p>
+      <p>
+        <a href="https://github.com/27RamaaaDev/public_html">
+          <img src="https://img.shields.io/badge/Related%20Repository-public__html-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -167,10 +201,24 @@ Cybersecurity
 ## 🏆 Highlights
 
 - 🏫 Koordinator Programming & Jaringan SCI-TOS di SMAN 4 Bekasi 2024/2025  
+- 💼 Web Developer divisi Digital Marketing di PT. Nirwana Sukses Sejahtera Internasional  
+- 🌐 Berhubungan dengan pengembangan dan pengelolaan website melalui repository `public_html`  
 - 💻 Fokus membangun project web nyata untuk meningkatkan skill development  
 - ⚙️ Tertarik dengan backend system, clean architecture, dan API design  
 - 🛡️ Mempelajari cybersecurity untuk membuat aplikasi yang lebih aman  
 - 🚀 Selalu belajar, eksperimen, dan berkembang sebagai developer  
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/27RamaaaDev/27RamaaaDev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/27RamaaaDev/27RamaaaDev/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/27RamaaaDev/27RamaaaDev/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
