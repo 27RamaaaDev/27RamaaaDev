@@ -27,7 +27,7 @@ Username    : 27RamaaaDev
 Role        : Fullstack Web Developer
 Position    : Web Developer — Digital Marketing Division
 Company     : PT. Nirwana Sukses Sejahtera Internasional
-Repository  : public_html
+Website     : https://nirwanafood.com
 Focus       : Fullstack Development | Backend Architecture | Cybersecurity
 Mindset     : Learn. Build. Secure. Improve.
 ```
@@ -36,8 +36,8 @@ Mindset     : Learn. Build. Secure. Improve.
   Saya adalah developer yang membangun kemampuan di bidang <b>Fullstack Web Development</b>,
   <b>Backend Architecture</b>, dan <b>Cybersecurity</b>. Saat ini saya juga berperan sebagai
   <b>Web Developer</b> di divisi <b>Digital Marketing</b> pada <b>PT. Nirwana Sukses Sejahtera Internasional</b>,
-  dengan fokus pada pengembangan dan pengelolaan website perusahaan melalui repository
-  <a href="https://github.com/27RamaaaDev/public_html"><b>public_html</b></a>.
+  dengan fokus pada pengembangan, pengelolaan, dan peningkatan website perusahaan
+  <a href="https://nirwanafood.com"><b>nirwanafood.com</b></a>.
 </p>
 
 ---
@@ -55,8 +55,8 @@ Mindset     : Learn. Build. Secure. Improve.
         Digital Marketing Division<br>
         PT. Nirwana Sukses Sejahtera Internasional
       </p>
-      <a href="https://github.com/27RamaaaDev/public_html">
-        <img src="https://img.shields.io/badge/Project%20Repository-public__html-00F5FF?style=for-the-badge&logo=github&logoColor=050505" />
+      <a href="https://nirwanafood.com">
+        <img src="https://img.shields.io/badge/Company%20Website-nirwanafood.com-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=050505" />
       </a>
     </td>
     <td align="center" width="50%">
@@ -213,7 +213,7 @@ Mindset     : Learn. Build. Secure. Improve.
 
 - 🏫 Koordinator Programming & Jaringan SCI-TOS di SMAN 4 Bekasi 2024/2025  
 - 💼 Web Developer divisi Digital Marketing di PT. Nirwana Sukses Sejahtera Internasional  
-- 🌐 Berhubungan dengan pengembangan dan pengelolaan website melalui repository [`public_html`](https://github.com/27RamaaaDev/public_html)  
+- 🌐 Berkontribusi dalam pengembangan dan pengelolaan website perusahaan [nirwanafood.com](https://nirwanafood.com)  
 - 🛡️ Menggabungkan pola pikir cybersecurity dengan eksekusi web development profesional  
 - ⚙️ Tertarik dengan backend system, clean architecture, API design, dan secure coding  
 - 🚀 Selalu belajar, bereksperimen, membangun, dan meningkatkan kualitas kode  
