@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,65:0A66C2,100:00F5FF&height=230&section=header&text=Restu%20Putra%20Ramadhan&fontSize=44&fontColor=FFFFFF&fontAlignY=34&desc=Cyber%20Professional%20%7C%20Fullstack%20Developer%20%7C%20Digital%20Marketing%20Web%20Developer&descSize=15&descAlignY=55&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,65:0A66C2,100:00F5FF&height=230&section=header&text=Restu%20Putra%20Ramadhan&fontSize=44&fontColor=FFFFFF&fontAlignY=34&desc=Cyber%20Security%20%7C%20Fullstack%20Developer%20%7C%20Digital%20Marketing%20Web%20Developer&descSize=15&descAlignY=55&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=%E2%9A%A1+Booting+cyber-professional+profile...;%F0%9F%92%BB+Fullstack+Web+Developer;%F0%9F%8C%90+Web+Developer+%40+PT.+Nirwana+Sukses+Sejahtera+Internasional;%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+Enthusiast+%7C+Backend+Architecture+Learner;%F0%9F%9A%80+Building+secure%2C+clean%2C+and+professional+web+systems" alt="Typing SVG" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/IDENTITY-CYBER%20PROFESSIONAL-020617?style=for-the-badge&logo=hackthebox&logoColor=00F5FF" />
+<img src="https://img.shields.io/badge/IDENTITY-CYBER%20SECURITY-020617?style=for-the-badge&logo=hackthebox&logoColor=00F5FF" />
 <img src="https://img.shields.io/badge/ROLE-FULLSTACK%20DEVELOPER-0A66C2?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/DIVISION-DIGITAL%20MARKETING-00BFFF?style=for-the-badge&logo=googlemarketingplatform&logoColor=020617" />
 <img src="https://img.shields.io/badge/FOCUS-SECURE%20WEB%20SYSTEMS-111827?style=for-the-badge&logo=kalilinux&logoColor=00F5FF" />
