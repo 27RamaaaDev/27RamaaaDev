@@ -1,98 +1,64 @@
-<h1 align="center">Hi there, I'm Restu Putra Ramadhan 👋</h1>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Cybersecurity+Analyst;Always+Learning;Growth+Mindset" alt="Typing SVG" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:007ACC&height=190&section=header&text=Restu%20Putra%20Ramadhan&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20Lifelong%20Learner&descSize=15&descAlignY=55" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Restu+Putra+Ramadhan+%F0%9F%91%8B;Fullstack+Web+Developer;Backend+Architecture+Learner;Cybersecurity+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
+
 </div>
 
 <p align="center">
-  <b>Software Engineer</b> • <b>Fullstack Web Developer</b> • <b>Cybersecurity Analyst</b>
-</p>
-
-<br>
-
-<p align="center">
-  🏫 <b>Koordinator Programming & Jaringan SCI-TOS</b> di SMAN 4 Bekasi (2024/2025)<br>
-  🎯 Saat ini sedang fokus mendalami <b>Fullstack Web Development</b> & <b>Backend Architecture</b><br>
-  💡 Suka membangun <i>real-world projects</i> dan terus melatih kemampuan <i>problem-solving</i><br>
-  💬 Cuma programmer pemula wkwkwk, dan sedang mencoba belajar berbagai teknologi untuk <i>upgrade skill</i>
+  <img src="https://img.shields.io/badge/Software%20Engineer-0A66C2?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fullstack%20Developer-00BFFF?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity%20Enthusiast-111827?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=27RamaaaDev&label=Profile%20Views&color=00BFFF&style=for-the-badge" />
 </p>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+## 👨‍💻 About Me
+
+```ts
+const restu = {
+  name: "Restu Putra Ramadhan",
+  username: "27RamaaaDev",
+  role: "Software Engineer & Fullstack Web Developer",
+  school: "SMAN 4 Bekasi",
+  organization: "Koordinator Programming & Jaringan SCI-TOS 2024/2025",
+  focus: [
+    "Fullstack Web Development",
+    "Backend Architecture",
+    "Cybersecurity Fundamentals",
+    "Real-world Project Development"
+  ],
+  mindset: "Keep learning, keep building, keep improving."
+};
+```
 
 <p align="center">
-  <b>Languages</b><br><br>
-  <img src="https://skillicons.dev/icons?i=python,php,js,ts,java,cpp,cs,kotlin,r" />
-</p>
-
-<p align="center">
-  <b>Frontend Development</b><br><br>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vue,nextjs" />
-</p>
-
-<p align="center">
-  <b>Backend & Frameworks</b><br><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django,spring" />
-</p>
-
-<p align="center">
-  <b>Databases, DevOps & Tools</b><br><br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,linux,git,postman,unity" />
+  Saya adalah developer yang sedang fokus membangun kemampuan di bidang <b>Fullstack Web Development</b>,
+  <b>Backend Architecture</b>, dan <b>Cybersecurity</b>. Saya suka belajar teknologi baru, membuat project nyata,
+  dan melatih problem-solving agar bisa terus berkembang sebagai engineer.
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile-27RamaaaDev-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Role-Fullstack%20Developer-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-00BFFF?style=for-the-badge&logo=serverfault&logoColor=white" />
-</p>
+## 🚀 What I'm Focusing On
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <h3>🚀 Profile Summary</h3>
-      <p>
-        <b>Username:</b> 27RamaaaDev<br>
-        <b>Role:</b> Software Engineer<br>
-        <b>Specialization:</b> Fullstack Web Development<br>
-        <b>Interest:</b> Cybersecurity & Backend Systems
-      </p>
+    <td align="center" width="33%">
+      <h3>🌐 Frontend</h3>
+      <p>Building clean, responsive, and user-friendly interfaces using modern frontend tools.</p>
     </td>
-    <td align="center" width="50%">
-      <h3>🔥 Developer Focus</h3>
-      <p>
-        <b>Currently Learning:</b> Backend Architecture<br>
-        <b>Project Style:</b> Real-world Projects<br>
-        <b>Mindset:</b> Growth Mindset<br>
-        <b>Status:</b> Always Learning
-      </p>
+    <td align="center" width="33%">
+      <h3>⚙️ Backend</h3>
+      <p>Learning API design, database structure, authentication, and scalable backend architecture.</p>
     </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center">
-      <b>💻 Main Languages</b><br><br>
-      Python • PHP • JavaScript • TypeScript • Java • C++ • C# • Kotlin
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>⚙️ Frameworks & Tools</b><br><br>
-      React • Next.js • Laravel • Django • Express.js • Spring • MySQL • Docker • Linux
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>🎯 Current Focus</b><br><br>
-      Fullstack Web Development • Backend Architecture • Cybersecurity Analysis
+    <td align="center" width="33%">
+      <h3>🛡️ Security</h3>
+      <p>Exploring web security, network fundamentals, secure coding, and vulnerability analysis.</p>
     </td>
   </tr>
 </table>
@@ -101,7 +67,114 @@
 
 ---
 
-<h2 align="center">🌍 Let's Connect!</h2>
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,php,js,ts,java,cpp,cs,kotlin,r" />
+
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vue,nextjs" />
+
+### Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django,spring" />
+
+### Databases, DevOps & Tools
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,linux,git,github,postman,unity" />
+
+</div>
+
+---
+
+## 📌 Developer Dashboard
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎯 Current Goal</h3>
+      <p>
+        Mastering fullstack development by building real-world projects and improving backend logic.
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🔥 Main Interest</h3>
+      <p>
+        Web development, backend systems, cybersecurity, APIs, and clean software architecture.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🧠 Learning Style</h3>
+      <p>
+        Learn by building, testing, breaking, fixing, and improving code step by step.
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>💡 Mindset</h3>
+      <p>
+        Beginner spirit, builder mentality, and continuous improvement every day.
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Clean%20%26%20Readable-00BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Build-Real%20World%20Projects-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learn-Never%20Stop-111827?style=for-the-badge" />
+</p>
+
+---
+
+## 🧭 Learning Roadmap
+
+```txt
+Frontend Development
+├── HTML, CSS, JavaScript
+├── Tailwind CSS & Bootstrap
+├── React.js & Vue.js
+└── Next.js
+
+Backend Development
+├── PHP & Laravel
+├── Node.js & Express.js
+├── Python & Django
+├── Java & Spring
+└── REST API Architecture
+
+Database & DevOps
+├── MySQL, PostgreSQL, MongoDB
+├── Firebase
+├── Docker
+├── Linux
+└── Git & GitHub Workflow
+
+Cybersecurity
+├── Web Security Fundamentals
+├── Network Basics
+├── Secure Coding Practice
+└── Vulnerability Analysis
+```
+
+---
+
+## 🏆 Highlights
+
+- 🏫 Koordinator Programming & Jaringan SCI-TOS di SMAN 4 Bekasi 2024/2025  
+- 💻 Fokus membangun project web nyata untuk meningkatkan skill development  
+- ⚙️ Tertarik dengan backend system, clean architecture, dan API design  
+- 🛡️ Mempelajari cybersecurity untuk membuat aplikasi yang lebih aman  
+- 🚀 Selalu belajar, eksperimen, dan berkembang sebagai developer  
+
+---
+
+## 🌍 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/restu-putra-ramadhannn-6446b9358">
@@ -118,6 +191,12 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=27RamaaaDev&label=Profile%20Views&color=00BFFF&style=flat-square" />
-</p>
+---
+
+<div align="center">
+
+### ⚡ "Small progress every day leads to big results."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:00BFFF&height=120&section=footer" />
+
+</div>
