@@ -22,22 +22,22 @@
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <p align="center">
-  <b>Languages</b><br>
+  <b>Languages</b><br><br>
   <img src="https://skillicons.dev/icons?i=python,php,js,ts,java,cpp,cs,kotlin,r" />
 </p>
 
 <p align="center">
-  <b>Frontend Development</b><br>
+  <b>Frontend Development</b><br><br>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vue,nextjs" />
 </p>
 
 <p align="center">
-  <b>Backend & Frameworks</b><br>
+  <b>Backend & Frameworks</b><br><br>
   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django,spring" />
 </p>
 
 <p align="center">
-  <b>Databases, DevOps & Tools</b><br>
+  <b>Databases, DevOps & Tools</b><br><br>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,linux,git,postman,unity" />
 </p>
 
@@ -46,17 +46,58 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=27RamaaaDev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=27RamaaaDev&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://img.shields.io/badge/Profile-27RamaaaDev-00BFFF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Fullstack%20Developer-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Architecture-00BFFF?style=for-the-badge&logo=serverfault&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=27RamaaaDev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/27RamaaaDev/27RamaaaDev/output/github-contribution-grid-snake.svg" width="80%" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🚀 Profile Summary</h3>
+      <p>
+        <b>Username:</b> 27RamaaaDev<br>
+        <b>Role:</b> Software Engineer<br>
+        <b>Specialization:</b> Fullstack Web Development<br>
+        <b>Interest:</b> Cybersecurity & Backend Systems
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🔥 Developer Focus</h3>
+      <p>
+        <b>Currently Learning:</b> Backend Architecture<br>
+        <b>Project Style:</b> Real-world Projects<br>
+        <b>Mindset:</b> Growth Mindset<br>
+        <b>Status:</b> Always Learning
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <b>💻 Main Languages</b><br><br>
+      Python • PHP • JavaScript • TypeScript • Java • C++ • C# • Kotlin
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>⚙️ Frameworks & Tools</b><br><br>
+      React • Next.js • Laravel • Django • Express.js • Spring • MySQL • Docker • Linux
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>🎯 Current Focus</b><br><br>
+      Fullstack Web Development • Backend Architecture • Cybersecurity Analysis
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
